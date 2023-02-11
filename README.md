@@ -1,2 +1,2 @@
 # html.rs
-A Html Langage Template 
+A Html Langage Template written in Rust
